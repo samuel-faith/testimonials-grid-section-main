@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 * 💻 [Live Site](https://your-live-site-url.com)
-* 📂 [Solution on Frontend Mentor](https://your-solution-url.com)
+* 📂 [Solution on Frontend Mentor](https://github.com/samuel-faith/testimonials-grid-section-main)
 
 ---
 
@@ -44,8 +44,7 @@ Users should be able to:
 * Semantic HTML5
 * CSS Grid & Flexbox
 * Mobile-first workflow
-* [React](https://reactjs.org/) (if applicable)
-* [Styled Components](https://styled-components.com/) or plain CSS
+* plain CSS
 
 ### What I Learned
 
@@ -78,10 +77,7 @@ Example of a testimonial card snippet:
 
 ## Author
 
-* Website – [Your Name](https://your-portfolio.com)
-* Frontend Mentor – [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-* Twitter – [@yourusername](https://www.twitter.com/yourusername)
+* Website – [Samuel Adelaja](https://your-portfolio.com)
+* Frontend Mentor – [@samuel-faith](https://www.frontendmentor.io/profile/samuel-faith)
 
 ---
-
-Let me know if you'd like a markdown version of this or help tailoring the content based on the tools you actually used.
